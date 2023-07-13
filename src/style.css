@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 5px;
+}
+
+.navbar .menu a {
+  color: tomato;
+  text-decoration: none;
+  padding: 5px;
+}
+.about {
+  text-align: center;
+  padding: 5px;
+}
+.about img {
+  width: 200px;
+  border-radius: 50%;
+  margin-top: 20px;
+}
+.about p {
+  text-align: left;
+}
+.section {
+  padding: 5px;
+}
+.section h1 {
+  text-align: center;
+}
+.footer {
+  margin-top: 10px;
+}
